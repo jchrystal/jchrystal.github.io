@@ -1,0 +1,852 @@
+school.name,2015.cost.avg_net_price.overall,2015.student.undergrads_with_pell_grant_or_federal_student_loan
+Erie Community College,4910.0,12733
+Norco College,6029.0,9304
+Middle Georgia State University,9369.0,7927
+DeVry University-Illinois,26209.0,18264
+University of North Georgia,10002.0,15507
+Central Georgia Technical College,2717.0,7625
+College of Western Idaho,6660.0,10318
+Texas State Technical College,7391.0,12537
+University of Phoenix-Arizona,17015.0,155872
+Georgia Military College,8747.0,7221
+South Louisiana Community College,7630.0,6332
+University of California-Merced,13011.0,5884
+Folsom Lake College,8700.0,7941
+University of Arkansas,14546.0,21836
+California State University-Fullerton,7454.0,32726
+American River College,7068.0,29133
+California State University-San Bernardino,6679.0,16743
+California State University-Chico,13365.0,16081
+California State University-Bakersfield,6027.0,7635
+California State University-Stanislaus,6789.0,7847
+Azusa Pacific University,27183.0,5918
+Cabrillo College,7984.0,13594
+University of Alabama at Birmingham,16023.0,11679
+University of Alabama in Huntsville,18661.0,5618
+Mesa Community College,8084.0,22711
+Pima Community College,2721.0,28070
+Scottsdale Community College,8407.0,9863
+Phoenix College,7502.0,12107
+GateWay Community College,7591.0,5950
+Rio Salado College,7422.0,20215
+University of California-Santa Barbara,14767.0,20238
+University of California-Berkeley,13262.0,27126
+California State University-East Bay,10363.0,12340
+City College of San Francisco,4063.0,23636
+College of the Canyons,5924.0,20237
+De Anza College,5087.0,23123
+Cosumnes River College,7954.0,14467
+College of the Desert,8313.0,9719
+Evergreen Valley College,10275.0,9134
+Cuyamaca College,2538.0,8634
+Grossmont College,675.0,18032
+Fresno City College,4352.0,22308
+Golden West College,12204.0,12444
+Irvine Valley College,9311.0,13156
+Hartnell College,9564.0,9805
+Pulaski Technical College,9195.0,9241
+Antelope Valley College,5422.0,14578
+University of Arkansas-Fort Smith,7425.0,6830
+Allan Hancock College,4529.0,11047
+College of Alameda,5605.0,5796
+San Diego State University,13475.0,28394
+Riverside City College,7343.0,18547
+University of Colorado Boulder,21806.0,26557
+Broward College,9436.0,44119
+Embry-Riddle Aeronautical University-Daytona Beach,30140.0,4967
+Eastern Florida State College,6318.0,15931
+College of Central Florida,6924.0,7931
+Metropolitan State University of Denver,9521.0,21196
+Front Range Community College,9777.0,18763
+Gateway Community College,6834.0,8200
+Delaware Technical Community College-Terry,7421.0,13703
+Yale University,20910.0,5477
+University of San Francisco,33655.0,6845
+San Joaquin Delta College,9586.0,18572
+San Joaquin Valley College-Visalia,18403.0,8169
+Saddleback College,10899.0,20005
+Loyola Marymount University,37606.0,6184
+San Diego Miramar College,5558.0,11876
+MiraCosta College,6141.0,14680
+Modesto Junior College,7911.0,17586
+Arapahoe Community College,9835.0,10401
+Santa Monica College,5705.0,30158
+Victor Valley College,7713.0,11597
+Santa Rosa Junior College,6903.0,23144
+College of San Mateo,2140.0,8935
+Community College of Denver,8787.0,10296
+Central Connecticut State University,17291.0,9871
+Sacred Heart University,37928.0,4997
+Post University,37101.0,7642
+Merritt College,7559.0,6055
+State College of Florida-Manatee-Sarasota,11644.0,10297
+University of South Florida-Main Campus,11232.0,30155
+St Petersburg College,10333.0,32681
+Santa Fe College,9669.0,15055
+The University of West Florida,11184.0,10072
+Valencia College,6451.0,43217
+Georgia State University,14290.0,25328
+Brigham Young University-Idaho,8667.0,36624
+Southwestern Illinois College,7423.0,10545
+University of Idaho,13709.0,8615
+Pensacola State College,6593.0,10317
+Polk State College,8912.0,11060
+Elgin Community College,4197.0,10929
+City Colleges of Chicago-Wilbur Wright College,8496.0,12146
+Armstrong State University,19265.0,6346
+Columbus State University,11422.0,6880
+University of Illinois at Urbana-Champaign,18143.0,32959
+Illinois Central College,7778.0,10296
+John C Calhoun State Community College,5134.0,10802
+Jacksonville State University,17139.0,7647
+University of South Alabama,15204.0,11479
+University of Arizona,16099.0,32585
+Central Arizona College,4480.0,5937
+Western Illinois University,17219.0,9645
+Ivy Tech Community College,6943.0,90426
+Indiana Wesleyan University-Marion,26318.0,10392
+Northern Illinois University,19259.0,15435
+Des Moines Area Community College,11079.0,23526
+University of Iowa,14085.0,22354
+University of Massachusetts-Boston,11789.0,12108
+University of Maryland-University College,12299.0,35154
+Holyoke Community College,7240.0,6604
+Montgomery College,7697.0,25517
+Prince George's Community College,8448.0,13564
+Anne Arundel Community College,15869.0,15274
+Wichita State University,14945.0,11977
+Butler Community College,9171.0,9003
+Jefferson Community and Technical College,6618.0,13550
+Murray State University,9808.0,9444
+Grand Rapids Community College,5344.0,15668
+Grand Valley State University,16491.0,21636
+Central Michigan University,14509.0,20082
+Northern Essex Community College,8761.0,6963
+Worcester State University,17495.0,5563
+Oakland Community College,4471.0,24031
+Macomb Community College,6963.0,22914
+Oakland University,11929.0,16935
+Moraine Valley Community College,4863.0,15286
+Triton College,5359.0,11577
+Frederick Community College,5222.0,6031
+Boston University,34910.0,18017
+Boston College,33661.0,9704
+Westfield State University,16808.0,5590
+Suffolk University,29563.0,5390
+Schoolcraft College,4574.0,11542
+University of Southern Mississippi,12175.0,12005
+Normandale Community College,13013.0,9539
+Century College,8931.0,9478
+Northwest Mississippi Community College,6134.0,7695
+Missouri State University-Springfield,15314.0,18517
+Metropolitan Community College-Kansas City,7453.0,18222
+Missouri Southern State University,9011.0,5561
+Ozarks Technical Community College,7521.0,14396
+Wayne County Community College District,5438.0,16310
+University of Minnesota-Duluth,16551.0,9987
+University of New Hampshire-Main Campus,24013.0,12831
+Atlantic Cape Community College,9310.0,6845
+Truman State University,12586.0,5910
+Bellevue University,8770.0,6291
+East Carolina University,15450.0,22252
+University at Buffalo,16695.0,19828
+North Carolina A & T State University,9517.0,9203
+University of North Carolina at Greensboro,11102.0,15313
+North Carolina State University at Raleigh,14988.0,24473
+University of North Carolina Wilmington,15909.0,12964
+Pitt Community College,5451.0,8961
+Pace University-New York,27416.0,8694
+Monroe College,12225.0,6501
+The New School,34945.0,6940
+Rensselaer Polytechnic Institute,34841.0,5557
+Cleveland State University,17136.0,11826
+Lorain County Community College,2866.0,11569
+SUNY Buffalo State,12237.0,9475
+St John's University-New York,27044.0,15762
+Orange County Community College,5684.0,6951
+Farmingdale State College,9182.0,8394
+SUNY College at Brockport,15165.0,7040
+University of Rochester,24972.0,6266
+Tulsa Community College,6353.0,17861
+Northeastern State University,8604.0,7094
+New Mexico State University-Dona Ana,6092.0,8448
+Rutgers University-Newark,13705.0,7408
+Central New Mexico Community College,3213.0,26771
+Union County College,4466.0,11781
+William Paterson University of New Jersey,16643.0,9619
+Kean University,18781.0,11987
+Middlesex County College,7408.0,12059
+Camden County College,8277.0,12051
+Bergen Community College,7019.0,15651
+Rowan College at Gloucester County,7715.0,7130
+Ocean County College,9764.0,9296
+Rowan College at Burlington County,7396.0,9438
+Mercer County Community College,3715.0,7839
+Passaic County Community College,8490.0,8968
+New Jersey Institute of Technology,17486.0,7550
+SUNY Broome Community College,7640.0,5944
+CUNY Bernard M Baruch College,7014.0,14857
+CUNY Queens College,6678.0,15773
+Dutchess Community College,7989.0,9905
+CUNY Hostos Community College,7416.0,6985
+Hudson Valley Community College,9013.0,12177
+Columbia University in the City of New York,21031.0,8100
+The College of New Jersey,24079.0,6743
+Essex County College,9990.0,11468
+Nassau Community College,3894.0,22374
+New York University,36419.0,24985
+Oakton Community College,5972.0,10589
+Delgado Community College,8096.0,17509
+Nicholls State University,10625.0,5690
+Oklahoma State University-Oklahoma City,5386.0,6712
+Linn-Benton Community College,10040.0,5366
+Clackamas Community College,5328.0,7302
+Oklahoma City Community College,7593.0,13444
+Bloomsburg University of Pennsylvania,18546.0,9319
+Lane Community College,8251.0,9388
+Bucks County Community College,9002.0,9155
+Oregon State University,19020.0,23903
+Millersville University of Pennsylvania,19140.0,7171
+University of Pittsburgh-Pittsburgh Campus,27917.0,18757
+Asheville-Buncombe Technical Community College,8838.0,7507
+Forsyth Technical Community College,3287.0,9148
+Elon University,35454.0,5782
+Bowling Green State University-Main Campus,18437.0,14099
+Tri-County Technical College,7790.0,6386
+Nashville State Community College,5412.0,10044
+Southwest Tennessee Community College,4246.0,10262
+West Chester University of Pennsylvania,22250.0,13844
+Slippery Rock University of Pennsylvania,18493.0,7587
+Shippensburg University of Pennsylvania,20449.0,6305
+Brown University,27496.0,6548
+Texas Tech University,16804.0,28632
+Tarrant County College District,5380.0,50595
+The University of Texas at Austin,17742.0,39523
+Lone Star College System,6468.0,69395
+Sam Houston State University,12887.0,16819
+Texas A & M University-Kingsville,12602.0,9744
+Prairie View A & M University,11029.0,6890
+Texas Woman's University,9105.0,9680
+The University of Texas at San Antonio,11843.0,24285
+University of Houston,14134.0,33037
+Utah State University,11559.0,24271
+Weber State University,11571.0,25316
+Tyler Junior College,8788.0,11168
+Brigham Young University-Provo,12597.0,27163
+West Texas A & M University,12771.0,7133
+University of Wisconsin-Milwaukee,16746.0,22674
+West Virginia University,11206.0,22563
+Tacoma Community College,6320.0,7189
+University of Wisconsin-Oshkosh,14807.0,13311
+Fox Valley Technical College,10431.0,10561
+Northeast Wisconsin Technical College,9580.0,10406
+Marquette University,31093.0,8410
+Inter American University of Puerto Rico-Ponce,5242.0,5363
+University of Wisconsin-Stevens Point,13621.0,9006
+University of Wisconsin-River Falls,14402.0,5740
+Collin County Community College District,6280.0,27991
+Kilgore College,5814.0,5790
+Thomas Nelson Community College,7694.0,10436
+J Sargeant Reynolds Community College,7525.0,11861
+University of Virginia-Main Campus,19430.0,16483
+Southern Methodist University,32580.0,6391
+Virginia Commonwealth University,21741.0,23661
+Columbia Basin College,8048.0,6385
+Las Positas College,4499.0,8921
+Everest University-South Orlando,21429.0,22340
+Johnson & Wales University-Providence,26045.0,9173
+University of South Carolina-Columbia,18555.0,24866
+College of Charleston,17826.0,10440
+Clemson University,15885.0,17260
+Volunteer State Community College,7721.0,7664
+Baylor University,32657.0,13859
+Tennessee State University,10493.0,6967
+Austin Community College District,9254.0,40949
+Houston Community College,7581.0,58276
+Del Mar College,4992.0,10439
+Central Texas College,4548.0,20547
+North Central Texas College,6035.0,10186
+California State University-San Marcos,10547.0,11559
+Kaplan University-Davenport Campus,16037.0,38784
+California State University-Monterey Bay,11064.0,6231
+Georgia Gwinnett College,13113.0,10828
+University of Phoenix-California,17964.0,19688
+Arizona State University-Skysong,13990.0,11342
+Chamberlain College of Nursing-Illinois,22432.0,13279
+Baton Rouge Community College,8513.0,7741
+Suffolk County Community College,5782.0,26600
+The Community College of Baltimore County,8545.0,22887
+Santiago Canyon College,3908.0,11202
+Embry-Riddle Aeronautical University-Worldwide,17330.0,9755
+The University of Alabama,20575.0,30752
+Auburn University,22183.0,20629
+University of Alaska Fairbanks,9942.0,7484
+Glendale Community College,6995.0,20506
+Northern Arizona University,14785.0,23328
+California State University-Fresno,6112.0,20511
+California State Polytechnic University-Pomona,13390.0,22395
+University of Central Arkansas,13063.0,9842
+Butte College,5073.0,12157
+Academy of Art University,32085.0,10044
+California Baptist University,30628.0,6435
+California State University-Northridge,6797.0,35616
+Chapman University,36367.0,6211
+Cerritos College,2561.0,21775
+East Los Angeles College,8005.0,36018
+Diablo Valley College,5586.0,20115
+University of California-Riverside,11779.0,18790
+University of California-Davis,15052.0,27565
+University of California-Santa Cruz,17222.0,16277
+University of California-San Diego,13913.0,24810
+Canada College,4078.0,6498
+Bakersfield College,3179.0,18698
+University of La Verne,20606.0,5211
+Glendale Community College,2596.0,15114
+Foothill College,3913.0,15469
+Long Beach City College,4710.0,24403
+Los Angeles Pierce College,7164.0,21045
+Los Angeles City College,5738.0,18748
+Colorado State University-Fort Collins,16777.0,23598
+Yuba College,4638.0,6643
+Mt San Antonio College,2732.0,29044
+Palomar College,3554.0,24914
+Los Angeles Valley College,7475.0,18680
+Mt San Jacinto Community College District,5508.0,14580
+Moorpark College,2417.0,13880
+Oxnard College,2719.0,7148
+Santa Barbara City College,9781.0,17927
+Sonoma State University,15710.0,8512
+Southwestern College,4042.0,19000
+Solano Community College,7519.0,9824
+San Bernardino Valley College,6810.0,12965
+Santa Clara University,34425.0,5486
+University of Southern California,29174.0,18739
+West Valley College,9893.0,9062
+Laney College,8902.0,10715
+Los Angeles Trade Technical College,5843.0,14662
+Merced College,9008.0,10196
+Los Medanos College,4875.0,8750
+Pikes Peak Community College,9672.0,13947
+University of Northern Colorado,18946.0,9469
+University of Connecticut,20023.0,18395
+Howard University,24729.0,7013
+Georgetown University,30580.0,7595
+University of Hartford,29722.0,4956
+Western Connecticut State University,17564.0,5442
+American University,36480.0,7706
+Quinnipiac University,35653.0,6553
+Naugatuck Valley Community College,6299.0,7102
+Manchester Community College,4010.0,7300
+University of Central Florida,14221.0,52671
+Daytona State College,4986.0,13248
+Florida Atlantic University,13427.0,25490
+Florida State College at Jacksonville,7623.0,25514
+Florida Agricultural and Mechanical University,11679.0,8495
+Florida SouthWestern State College,8958.0,15389
+San Francisco State University,12768.0,25938
+San Jose State University,13183.0,26664
+Sacramento City College,7033.0,23317
+Pasadena City College,5396.0,26617
+San Diego City College,5411.0,16298
+Rio Hondo College,5004.0,16217
+Santa Ana College,4153.0,29590
+San Jose City College,9326.0,9075
+University of Cincinnati-Main Campus,22180.0,24300
+Columbus State Community College,6804.0,24448
+University of Akron Main Campus,17350.0,19710
+North Dakota State University-Main Campus,15139.0,12124
+University of Dayton,27884.0,8529
+Sinclair Community College,5269.0,19093
+Owens Community College,6795.0,12561
+North Carolina Central University,10743.0,5917
+University of North Carolina at Chapel Hill,13744.0,18350
+SUNY at Binghamton,18870.0,13412
+SUNY Cortland,19208.0,6317
+SUNY College at Geneseo,17850.0,5497
+Central Piedmont Community College,6665.0,19957
+Gaston College,10355.0,5777
+Duke University,34137.0,6626
+University of Oklahoma-Norman Campus,16418.0,21011
+University of Central Oklahoma,12141.0,14998
+Wright State University-Main Campus,14101.0,12682
+Rose State College,8095.0,6889
+Portland Community College,9386.0,30929
+Community College of Allegheny County,6166.0,17153
+Portland State University,14323.0,22136
+Drexel University,37747.0,16896
+California University of Pennsylvania,18735.0,6076
+Edinboro University of Pennsylvania,15309.0,5595
+East Stroudsburg University of Pennsylvania,18450.0,6203
+Pennsylvania State University-Main Campus,29226.0,40541
+Northampton County Area Community College,6867.0,10531
+Luzerne County Community College,7554.0,6049
+Lehigh University,33300.0,5062
+Community College of Philadelphia,7305.0,19119
+The University of Tennessee-Chattanooga,13378.0,10315
+Temple University,20670.0,28287
+The University of Tennessee-Knoxville,18138.0,21451
+Austin Peay State University,11984.0,9246
+Northeast State Community College,6403.0,5838
+Belmont University,32568.0,5837
+Texas A & M University-Commerce,9327.0,7374
+El Paso Community College,3355.0,28308
+Brookhaven College,4085.0,12403
+Vanderbilt University,18144.0,6851
+Horry-Georgetown Technical College,6327.0,7335
+South Dakota State University,21762.0,10937
+University of South Carolina-Upstate,14190.0,5397
+Saint Joseph's University,34547.0,5501
+University of Houston-Clear Lake,13185.0,5063
+Lamar University,13018.0,9279
+University of Houston-Downtown,7465.0,13830
+University of North Texas,12784.0,29758
+Utah Valley University,8259.0,31163
+Salt Lake Community College,7937.0,30218
+Texas Southern University,19221.0,6915
+Southern Utah University,14434.0,6953
+University of Vermont,17414.0,10992
+Stephen F Austin State University,15473.0,11024
+Texas A & M University-College Station,13426.0,46937
+San Antonio College,6636.0,21280
+Navarro College,12902.0,9999
+The University of Texas at Dallas,12940.0,14300
+Temple College,4356.0,5013
+Laredo Community College,4723.0,8307
+Midwestern State University,9516.0,5144
+Mountain View College,3553.0,8950
+Lee College,6360.0,6481
+George Mason University,19245.0,22349
+John Tyler Community College,6845.0,9875
+James Madison University,19669.0,19144
+Liberty University,23815.0,49340
+Old Dominion University,15935.0,20115
+Radford University,16772.0,8885
+The University of Texas at Tyler,15162.0,5849
+Wharton County Junior College,4640.0,7152
+Texas Christian University,32005.0,8647
+Germanna Community College,7036.0,7282
+Tidewater Community College,7126.0,27646
+Marshall University,9508.0,9536
+University of Washington-Seattle Campus,12947.0,30672
+Madison Area Technical College,10595.0,16698
+Western Washington University,15957.0,14152
+Spokane Falls Community College,7016.0,5970
+Spokane Community College,5265.0,9974
+Clark College,8003.0,10911
+Inter American University of Puerto Rico-Metro,9984.0,7016
+Pontifical Catholic University of Puerto Rico-Ponce,5659.0,5865
+Instituto de Banca y Comercio Inc,6102.0,19942
+University of Wyoming,11813.0,10124
+University of Wisconsin-Platteville,15419.0,8047
+University of Wisconsin-La Crosse,15292.0,9820
+University of Wisconsin-Green Bay,14102.0,6674
+University of Wisconsin-Eau Claire,15403.0,10196
+University of Puerto Rico-Mayaguez,6441.0,11133
+Harrisburg Area Community College-Harrisburg,10417.0,20230
+Indiana University of Pennsylvania-Main Campus,18221.0,12295
+Lehigh Carbon Community College,5960.0,6779
+Purdue University-Main Campus,13516.0,30237
+Chandler-Gilbert Community College,8302.0,14500
+DePaul University,28434.0,16153
+Columbia College Chicago,29589.0,9003
+College of DuPage,7163.0,29476
+Idaho State University,16257.0,11540
+City Colleges of Chicago-Harold Washington College,9271.0,9392
+Florida State University,15664.0,32948
+University of North Florida,13621.0,14121
+Keiser University-Ft Lauderdale,28870.0,17737
+Pasco-Hernando State College,5796.0,11263
+Boise State University,13718.0,19351
+Valdosta State University,13990.0,9328
+University of West Georgia,15365.0,10249
+Georgia College and State University,17283.0,5927
+Kapiolani Community College,5076.0,7994
+Leeward Community College,2214.0,7742
+Hillsborough Community College,5831.0,27298
+Seminole State College of Florida,8654.0,18399
+The University of Tampa,27580.0,6823
+Joliet Junior College,4584.0,15776
+College of Lake County,4613.0,15410
+Northwestern University,28155.0,9048
+Savannah College of Art and Design,36902.0,9092
+Gwinnett Technical College,8273.0,7234
+Rasmussen College-Florida,17213.0,6309
+Full Sail University,35654.0,17318
+Emory University,25941.0,6880
+Chattahoochee Technical College,2186.0,9942
+Vincennes University,11245.0,19205
+Kirkwood Community College,10140.0,14190
+Iowa State University,13997.0,28893
+Ashford University,16870.0,45348
+University of Southern Indiana,11990.0,8414
+Ball State University,15201.0,16415
+Illinois State University,20437.0,18155
+Parkland College,7821.0,8443
+Indiana University-South Bend,10035.0,7293
+Kansas State University,17401.0,20327
+Johnson County Community College,7421.0,19429
+University of Northern Iowa,15961.0,10142
+University of New Orleans,8891.0,7152
+Louisiana State University and Agricultural & Mechanical College,11355.0,25572
+Northwestern State University of Louisiana,9966.0,7898
+University of Southern Maine,16528.0,6628
+University of Maine,15955.0,9339
+Southern Maine Community College,11517.0,6734
+Tulane University of Louisiana,32475.0,7892
+Southeastern Louisiana University,10254.0,13365
+University of Louisiana at Lafayette,9459.0,15574
+Howard Community College,7164.0,9920
+Lansing Community College,7092.0,16031
+Ferris State University,13306.0,13357
+University of Michigan-Ann Arbor,14521.0,28395
+Towson University,17516.0,18807
+University of Maryland-Baltimore County,18827.0,11379
+Morgan State University,16225.0,6302
+Bridgewater State University,18745.0,9628
+Bunker Hill Community College,7006.0,14253
+College of Southern Maryland,8912.0,8411
+Davenport University,16512.0,6648
+Middlesex Community College,4565.0,9205
+Delta College,3929.0,9842
+Northeastern University,28869.0,13510
+Quinsigamond Community College,7157.0,8452
+Harvard University,17882.0,10338
+Michigan State University,16788.0,38786
+Northern Michigan University,12468.0,8001
+Michigan Technological University,15237.0,5658
+Tufts University,29565.0,5177
+Washtenaw Community College,4090.0,12295
+University of Mississippi,14284.0,18101
+Mississippi Gulf Coast Community College,5910.0,9793
+University of Nebraska-Lincoln,16705.0,19979
+Brookdale Community College,6912.0,14144
+Montclair State University,22377.0,15885
+New Jersey City University,8887.0,6229
+Hudson County Community College,7949.0,9203
+College of Southern Nevada,8492.0,35943
+University of Nevada-Reno,14568.0,16839
+Southern New Hampshire University,35118.0,29353
+Stockton University,19244.0,7714
+Ramapo College of New Jersey,22013.0,5163
+Seton Hall University,27199.0,5817
+Rowan University,22383.0,12022
+University of New Mexico-Main Campus,9027.0,21792
+Mercy College,16682.0,7939
+CUNY Borough of Manhattan Community College,7986.0,26606
+Hofstra University,31194.0,6904
+CUNY Lehman College,5465.0,10326
+CUNY York College,5742.0,8438
+Fordham University,34042.0,8633
+San Juan College,5216.0,8323
+Cornell University,29711.0,14269
+Rockland Community College,9146.0,7521
+Indiana Institute of Technology,23834.0,6541
+Bluegrass Community and Technical College,6487.0,10952
+University of Notre Dame,29727.0,8448
+Southern Illinois University-Carbondale,16048.0,13461
+Metropolitan State University,15344.0,7595
+Montana State University,16809.0,13298
+University of St Thomas,28374.0,6234
+Hinds Community College,4902.0,12021
+University of Minnesota-Twin Cities,17015.0,34351
+Northwest Missouri State University,10154.0,5491
+Saint Louis University,31005.0,12374
+Missouri University of Science and Technology,14096.0,6520
+Stony Brook University,13717.0,16480
+SUNY at Albany,16126.0,12929
+SUNY Oneonta,17829.0,5836
+Universidad del Turabo,9215.0,14596
+California State University-Sacramento,8710.0,26739
+California State University-Long Beach,9163.0,31643
+Arkansas State University-Main Campus,12152.0,9857
+California State University-Los Angeles,3227.0,20681
+University of Arkansas at Little Rock,12218.0,9384
+California State University-Dominguez Hills,3537.0,12682
+University of California-Irvine,13648.0,24489
+University of California-Los Angeles,13328.0,29633
+Troy University,11551.0,15114
+University of Alaska Anchorage,9028.0,16291
+Jefferson State Community College,9674.0,8516
+University of North Alabama,11438.0,5885
+Grand Canyon University,28469.0,39400
+Arizona Western College,8959.0,7702
+Yavapai College,6531.0,7842
+Arkansas Tech University,10303.0,11099
+California Polytechnic State University-San Luis Obispo,17661.0,19246
+Fullerton College,5722.0,25055
+Cypress College,7575.0,16124
+El Camino Community College District,8705.0,24207
+Cuesta College,9233.0,9234
+El Camino College-Compton Center,7520.0,7611
+Contra Costa College,6965.0,6704
+Gavilan College,4676.0,5531
+Crafton Hills College,10340.0,5932
+Citrus College,3540.0,12805
+Chabot College,5078.0,13318
+Chaffey College,8576.0,19557
+Coastline Community College,8278.0,11410
+Arizona State University-Tempe,11337.0,39961
+Florida International University,12427.0,41009
+Palm Beach State College,2332.0,28517
+Miami Dade College,8849.0,66046
+University of Florida,12022.0,32829
+Indian River State College,2447.0,17665
+University of Miami,32746.0,11175
+Purdue University-Calumet Campus,11207.0,8491
+Indiana University-Purdue University-Indianapolis,12861.0,22525
+Indiana University-Purdue University-Fort Wayne,14961.0,12674
+Indiana University-Bloomington,15349.0,36419
+Southern Illinois University-Edwardsville,16712.0,11421
+Indiana State University,12143.0,10881
+Indiana University-Southeast,11534.0,5989
+William Rainey Harper College,8023.0,14957
+Waubonsee Community College,5483.0,10904
+Northeastern Illinois University,15591.0,8412
+Loyola University Chicago,31149.0,10322
+Rock Valley College,6744.0,7737
+Fort Hays State University,11872.0,11643
+Orange Coast College,9462.0,21801
+Humboldt State University,13148.0,7983
+Shasta College,5650.0,8342
+College of the Sequoias,444.0,10648
+University of San Diego,33865.0,5741
+San Diego Mesa College,6132.0,24159
+Reedley College,3015.0,14635
+Colorado Mesa University,16507.0,9003
+University of Colorado Colorado Springs,14649.0,9629
+University of Denver,28839.0,5643
+University of Colorado Denver/Anschutz Medical Campus,14519.0,13509
+Sierra College,6999.0,18565
+Ventura College,2572.0,12928
+West Los Angeles College,6314.0,10780
+Berkeley City College,7198.0,6378
+National University,24118.0,9721
+Los Angeles Harbor College,9565.0,10273
+Monterey Peninsula College,5594.0,7727
+Mission College,8558.0,8435
+Napa Valley College,9752.0,6356
+Red Rocks Community College,8203.0,8112
+Skyline College,3043.0,9820
+Los Angeles Mission College,8014.0,10227
+Los Angeles Southwest College,6418.0,6942
+Imperial Valley College,2920.0,7792
+Ohlone College,9564.0,11318
+Southern Connecticut State University,15240.0,8133
+Tallahassee Community College,4987.0,13049
+Saint Leo University,20054.0,12581
+Georgia Southern University,16963.0,18029
+University of Georgia,12023.0,26882
+Georgia Highlands College,6805.0,5358
+Georgia Institute of Technology-Main Campus,11574.0,14682
+West Georgia Technical College,3804.0,6536
+Clayton  State University,11397.0,6632
+Darton State College,7783.0,5623
+University of Hawaii at Manoa,13441.0,14126
+University of Delaware,15992.0,17458
+George Washington University,33637.0,10433
+Wilmington University,15586.0,8810
+Eastern Illinois University,16174.0,7640
+University of Chicago,25883.0,5738
+University of Illinois at Chicago,13527.0,16718
+Eastern Kentucky University,11647.0,13977
+University of Kentucky,16298.0,22223
+University of Louisville,15782.0,15961
+University of Kansas,18755.0,19343
+Pittsburg State University,13002.0,6270
+University of Massachusetts-Amherst,18869.0,22252
+University of Massachusetts-Lowell,18005.0,12983
+Massasoit Community College,7900.0,7905
+North Shore Community College,8059.0,7412
+Springfield Technical Community College,8184.0,6622
+University of Massachusetts-Dartmouth,16517.0,7185
+Salem State University,16884.0,7600
+Berklee College of Music,48310.0,4743
+Bristol Community College,6744.0,9189
+Baker College,12875.0,27101
+Mott Community College,6410.0,8937
+University of Maryland-College Park,15634.0,27056
+Western Kentucky University,10948.0,17452
+Harford Community College,3321.0,6714
+Johns Hopkins University,34455.0,6357
+University of Louisiana at Monroe,7859.0,7215
+Southern University and A & M College,12666.0,5388
+Bossier Parish Community College,8648.0,8580
+McNeese State University,9485.0,7484
+Louisiana Tech University,9233.0,9545
+Salisbury University,18408.0,7997
+Morehead State University,11870.0,9951
+Northern Kentucky University,8966.0,12809
+Somerset Community College,5377.0,6995
+Eastern Michigan University,12675.0,18340
+Henry Ford College,4200.0,13790
+Kalamazoo Valley Community College,4182.0,9489
+University of Michigan-Flint,14223.0,7078
+University of Michigan-Dearborn,12220.0,7171
+Wayne State University,13258.0,18347
+Western Michigan University,16870.0,18889
+Saginaw Valley State University,14579.0,8930
+Anoka-Ramsey Community College,11703.0,7877
+Saint Cloud State University,13786.0,14377
+Mississippi State University,16035.0,16536
+North Hennepin Community College,10738.0,7384
+Jackson State University,13142.0,7199
+Holmes Community College,4956.0,5797
+Winona State University,17393.0,8111
+Saint Paul College,12928.0,6600
+College of Staten Island CUNY,9428.0,13343
+CUNY Hunter College,7742.0,16879
+CUNY John Jay College of Criminal Justice,5294.0,13305
+CUNY Kingsborough Community College,6527.0,17757
+CUNY Brooklyn College,6451.0,14115
+CUNY City College,6002.0,12893
+CUNY Bronx Community College,7986.0,11506
+Onondaga Community College,8639.0,12271
+Monroe Community College,6867.0,15335
+Rochester Institute of Technology,26410.0,13460
+Rutgers University-New Brunswick,19924.0,36016
+New Mexico State University-Main Campus,9663.0,12784
+Raritan Valley Community College,6545.0,8214
+CUNY New York City College of Technology,6084.0,17374
+CUNY Queensborough Community College,6862.0,16182
+CUNY LaGuardia Community College,8209.0,20231
+CUNY Medgar Evers College,9354.0,6701
+Fashion Institute of Technology,12999.0,9567
+SUNY College at Oswego,16314.0,7193
+SUNY College at Plattsburgh,15334.0,5565
+State University of New York at New Paltz,16599.0,6642
+Marist College,33030.0,5516
+Ithaca College,33759.0,6124
+Thomas Edison State University,,18683
+Princeton University,8848.0,5391
+Touro College,15985.0,6485
+Appalachian State University,14686.0,16255
+SUNY Westchester Community College,5821.0,13916
+Cape Fear Community College,9274.0,9056
+SUNY Empire State College,13898.0,10873
+Syracuse University,30135.0,15224
+Kent State University at Kent,18978.0,22319
+Miami University-Oxford,22011.0,15813
+Cuyahoga Community College District,4836.0,27104
+Lakeland Community College,8357.0,8250
+University of North Dakota,16400.0,11537
+Wake Technical Community College,9505.0,21384
+Western Carolina University,13516.0,8787
+University of North Carolina at Pembroke,11458.0,5511
+University of North Carolina at Charlotte,11571.0,22216
+Cincinnati State Technical and Community College,6499.0,10707
+Case Western Reserve University,27949.0,4911
+Fayetteville Technical Community College,4412.0,12103
+Guilford Technical Community College,12247.0,12363
+Fayetteville State University,4927.0,5247
+Ohio State University-Main Campus,18099.0,44741
+Ohio University-Main Campus,20826.0,23571
+University of Toledo,14839.0,16115
+Youngstown State University,11691.0,11267
+Stark State College,6675.0,14097
+Oklahoma State University-Main Campus,13894.0,20952
+University of Oregon,15769.0,20559
+Central Oregon Community College,9764.0,6312
+Mt Hood Community College,7832.0,9276
+Chemeketa Community College,7228.0,11101
+Trident Technical College,7701.0,16136
+Midlands Technical College,5366.0,11424
+Greenville Technical College,7498.0,12592
+Coastal Carolina University,14955.0,9364
+Montgomery County Community College,8679.0,12805
+University of Pennsylvania,25225.0,11548
+Community College of Rhode Island,7051.0,17553
+University of Rhode Island,19177.0,13589
+Rhode Island College,9613.0,7518
+Villanova University,36563.0,7118
+Florence-Darlington Technical College,4718.0,6215
+Chattanooga State Community College,8060.0,9463
+University of South Dakota,16396.0,7541
+Minneapolis Community and Technical College,13059.0,9237
+Minnesota State University-Mankato,15178.0,13395
+Minnesota State University Moorhead,15240.0,5731
+Hennepin Technical College,13965.0,5985
+University of Central Missouri,14794.0,9838
+Lindenwood University,22125.0,8541
+Columbia College,11549.0,15639
+Saint Louis Community College,7101.0,21218
+Southeast Missouri State University,12294.0,10848
+Washington University in St Louis,32873.0,7401
+University of Nebraska at Omaha,12505.0,12221
+The University of Montana,12679.0,11692
+Southeast Community College Area,8271.0,9392
+Metropolitan Community College Area,6367.0,14675
+University of Missouri-Columbia,16902.0,27642
+University of Missouri-St Louis,10017.0,13874
+University of Missouri-Kansas City,14418.0,10453
+Park University,15936.0,12599
+Truckee Meadows Community College,8667.0,11106
+University of Nevada-Las Vegas,10915.0,23803
+County College of Morris,7969.0,8096
+Delaware County Community College,7945.0,12459
+Kutztown University of Pennsylvania,19510.0,8562
+Carnegie Mellon University,34857.0,5888
+Duquesne University,27412.0,5995
+University of Memphis,13353.0,17071
+Middle Tennessee State University,11381.0,20262
+East Tennessee State University,15245.0,11550
+Pellissippi State Community College,7574.0,10273
+Texas A & M University-Corpus Christi,14361.0,9380
+Tennessee Technological University,13962.0,10314
+Angelo State University,14244.0,5425
+Amarillo College,4799.0,10336
+The University of Tennessee-Martin,7732.0,6677
+Eastfield College,4114.0,15112
+El Centro College,4495.0,10549
+Cedar Valley College,4920.0,6759
+University of the Incarnate Word,20821.0,6496
+Texas A & M International University,9087.0,6741
+Northwest Vista College,6411.0,15797
+Kennesaw State University,17675.0,29552
+Moreno Valley College,7252.0,8731
+Independence University,27614.0,4241
+Ultimate Medical Academy-Tampa,23172.0,20645
+Arizona State University-Downtown Phoenix,12135.0,9150
+California State University-Channel Islands,13371.0,5677
+Florida Gulf Coast University,16108.0,13345
+South Plains College,5494.0,9661
+The University of Texas Rio Grande Valley,4250.0,17858
+San Jacinto Community College,7909.0,27911
+Tarleton State University,15364.0,10217
+McLennan Community College,6253.0,8294
+St Philip's College,6120.0,10514
+Richland College,3438.0,19343
+North Lake College,4485.0,10744
+University of Wisconsin Colleges,8951.0,14045
+Georgia State University-Perimeter College,6571.0,21371
+Milwaukee Area Technical College,9532.0,16712
+Palo Alto College,6195.0,8376
+Eastern Washington University,13145.0,12411
+Central Washington University,15170.0,10964
+Green River College,9588.0,7915
+University of Wisconsin-Madison,19378.0,30694
+University of Wisconsin-Whitewater,14107.0,10988
+University of Wisconsin-Stout,15648.0,8279
+Universidad del Este,9325.0,12198
+University of Puerto Rico-Rio Piedras,3171.0,12362
+Stanford University,13857.0,7018
+Gateway Technical College,9365.0,7410
+Universidad Metropolitana,9639.0,11529
+Paradise Valley Community College,7246.0,8909
+St Charles Community College,3383.0,7151
+NorthWest Arkansas Community College,6824.0,8098
+Pennsylvania College of Technology,23431.0,5623
+Christopher Newport University,22618.0,5096
+Virginia Polytechnic Institute and State University,20172.0,24247
+Weatherford College,6563.0,5613
+College of William and Mary,18300.0,6299
+Northern Virginia Community College,9565.0,51487
+Washington State University,17878.0,23867
+University of Utah,13969.0,23895
+Blinn College,11957.0,19479
+The University of Texas at Arlington,14059.0,29883
+The University of Texas at El Paso,6638.0,19817
+Texas State University,14676.0,32177
+Dixie State University,10703.0,8570
+ECPI University,19286.0,10888
+Estrella Mountain Community College,7458.0,9164
+South Texas College,1745.0,30180

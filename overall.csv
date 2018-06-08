@@ -1,0 +1,852 @@
+school.name,2015.student.size,location.lat,location.lon,school.state
+Erie Community College,10027,42.881771,-78.872679,NY
+Norco College,8104,33.91675,-117.568201,CA
+Middle Georgia State University,7225,32.81039,-83.732361,GA
+DeVry University-Illinois,16211,41.94122,-87.691051,IL
+University of North Georgia,16048,34.530527,-83.986574,GA
+Central Georgia Technical College,6811,32.54502,-83.667531,GA
+College of Western Idaho,6951,43.614106,-116.507314,ID
+Texas State Technical College,8160,31.632364,-97.084073,TX
+University of Phoenix-Arizona,129139,33.40225,-111.966181,AZ
+Georgia Military College,6840,33.07865,-83.224401,GA
+South Louisiana Community College,5640,30.21822,-92.051241,LA
+University of California-Merced,6237,37.366237,-120.424944,CA
+Folsom Lake College,7966,38.662599,-121.126697,CA
+University of Arkansas,21815,36.06153,-94.178214,AR
+California State University-Fullerton,33009,33.883627,-117.885349,CA
+American River College,26760,38.649734,-121.346012,CA
+California State University-San Bernardino,17518,34.182987,-117.322508,CA
+California State University-Chico,15903,39.728003,-121.846333,CA
+California State University-Bakersfield,8068,35.350005,-119.104711,CA
+California State University-Stanislaus,8093,37.52577,-120.852511,CA
+Azusa Pacific University,5883,34.130865,-117.88795,CA
+Cabrillo College,11696,36.9891,-121.927926,CA
+University of Alabama at Birmingham,11269,33.50223,-86.80917,AL
+University of Alabama in Huntsville,5829,34.722818,-86.63842,AL
+Mesa Community College,17717,33.391256,-111.871494,AZ
+Pima Community College,19859,32.221737,-110.887033,AZ
+Scottsdale Community College,6998,33.509489,-111.887298,AZ
+Phoenix College,9745,33.481361,-112.088293,AZ
+GateWay Community College,5019,33.4495,-111.996527,AZ
+Rio Salado College,7515,33.413138,-111.975201,AZ
+University of California-Santa Barbara,20606,34.416281,-119.846404,CA
+University of California-Berkeley,27496,37.871969,-122.260423,CA
+California State University-East Bay,12981,37.65707,-122.058073,CA
+City College of San Francisco,21619,37.725953,-122.451155,CA
+College of the Canyons,16628,34.403121,-118.569524,CA
+De Anza College,20047,37.319176,-122.045365,CA
+Cosumnes River College,13315,38.453836,-121.422971,CA
+College of the Desert,9516,33.732484,-116.38761,CA
+Evergreen Valley College,7313,37.301736,-121.766686,CA
+Cuyamaca College,7748,32.743072,-116.941044,CA
+Grossmont College,16285,32.816077,-117.007292,CA
+Fresno City College,19180,36.767516,-119.795129,CA
+Golden West College,11102,33.733775,-118.003036,CA
+Irvine Valley College,11499,33.675079,-117.778575,CA
+Hartnell College,10384,36.673052,-121.668763,CA
+Pulaski Technical College,6844,34.78243,-92.299729,AR
+Antelope Valley College,12286,34.676207,-118.186166,CA
+University of Arkansas-Fort Smith,5754,35.385345,-94.374073,AR
+Allan Hancock College,9437,34.942979,-120.421486,CA
+College of Alameda,5486,37.78239,-122.279261,CA
+San Diego State University,28649,32.77525,-117.071228,CA
+Riverside City College,17010,33.971481,-117.38054,CA
+University of Colorado Boulder,26496,40.004415,-105.267061,CO
+Broward College,38474,26.07972,-80.23541,FL
+Embry-Riddle Aeronautical University-Daytona Beach,5247,29.189244,-81.0495,FL
+Eastern Florida State College,12266,28.384791,-80.75813,FL
+College of Central Florida,6670,29.166079,-82.175692,FL
+Metropolitan State University of Denver,19649,39.742248,-105.002391,CO
+Front Range Community College,14848,39.901757,-105.039359,CO
+Gateway Community College,6825,41.30432,-72.927191,CT
+Delaware Technical Community College-Terry,12106,39.198371,-75.56012,DE
+Yale University,5528,41.311158,-72.926688,CT
+University of San Francisco,6682,37.775564,-122.450977,CA
+San Joaquin Delta College,15208,37.994643,-121.317226,CA
+San Joaquin Valley College-Visalia,5605,36.328049,-119.384981,CA
+Saddleback College,17879,33.551925,-117.664876,CA
+Loyola Marymount University,6162,33.970633,-118.415655,CA
+San Diego Miramar College,11557,32.909546,-117.120888,CA
+MiraCosta College,14197,33.191231,-117.302283,CA
+Modesto Junior College,16280,37.652042,-121.009723,CA
+Arapahoe Community College,6860,39.607505,-105.018631,CO
+Santa Monica College,28136,34.018968,-118.470431,CA
+Victor Valley College,9817,34.472231,-117.261456,CA
+Santa Rosa Junior College,19537,38.45416,-122.720689,CA
+College of San Mateo,7679,37.534357,-122.336078,CA
+Community College of Denver,7076,39.74142,-105.003007,CO
+Central Connecticut State University,9693,41.690258,-72.770094,CT
+Sacred Heart University,5109,41.221548,-73.24461,CT
+Post University,6170,41.535334,-73.080525,CT
+Merritt College,5818,37.789088,-122.167335,CA
+State College of Florida-Manatee-Sarasota,9014,27.436066,-82.591739,FL
+University of South Florida-Main Campus,30282,28.056647,-82.415876,FL
+St Petersburg College,27354,27.9026,-82.717321,FL
+Santa Fe College,13291,29.680698,-82.433958,FL
+The University of West Florida,9783,30.542855,-87.218125,FL
+Valencia College,37925,28.52092,-81.471181,FL
+Georgia State University,24421,33.7527,-84.38667,GA
+Brigham Young University-Idaho,28457,43.815384,-111.784728,ID
+Southwestern Illinois College,8614,38.516406,-89.924466,IL
+University of Idaho,7826,46.726894,-117.024296,ID
+Pensacola State College,7836,30.480779,-87.200622,FL
+Polk State College,8436,28.030775,-81.712932,FL
+Elgin Community College,8167,42.018066,-88.32194,IL
+City Colleges of Chicago-Wilbur Wright College,7691,41.958774,-87.787868,IL
+Armstrong State University,6184,31.978109,-81.160409,GA
+Columbus State University,6743,32.501556,-84.940796,GA
+University of Illinois at Urbana-Champaign,32170,40.108864,-88.230309,IL
+Illinois Central College,7401,40.706247,-89.525411,IL
+John C Calhoun State Community College,8547,34.65428,-86.949131,AL
+Jacksonville State University,6625,33.822128,-85.766644,AL
+University of South Alabama,11379,30.695081,-88.18189,AL
+University of Arizona,32964,32.232071,-110.950769,AZ
+Central Arizona College,5134,32.957092,-111.652501,AZ
+Western Illinois University,9141,40.465621,-90.685235,IL
+Ivy Tech Community College,70073,39.803753,-86.158213,IN
+Indiana Wesleyan University-Marion,10000,40.518495,-85.661991,IN
+Northern Illinois University,14952,41.933791,-88.766065,IL
+Des Moines Area Community College,13423,41.707348,-93.611597,IA
+University of Iowa,21970,41.660695,-91.535698,IA
+University of Massachusetts-Boston,12397,42.314541,-71.038653,MA
+University of Maryland-University College,36119,38.986299,-76.954104,MD
+Holyoke Community College,5851,42.195503,-72.650683,MA
+Montgomery College,18892,39.09793,-77.159471,MD
+Prince George's Community College,11991,38.888495,-76.824157,MD
+Anne Arundel Community College,12379,39.049813,-76.512223,MD
+Wichita State University,11048,37.716484,-97.296733,KS
+Butler Community College,7327,37.806377,-96.882718,KS
+Jefferson Community and Technical College,10361,38.247469,-85.753487,KY
+Murray State University,7891,36.61241,-88.323493,KY
+Grand Rapids Community College,13840,42.966408,-85.666571,MI
+Grand Valley State University,21889,42.965208,-85.887519,MI
+Central Michigan University,19954,43.591137,-84.775275,MI
+Northern Essex Community College,6010,42.796148,-71.047475,MA
+Worcester State University,5049,42.267534,-71.844019,MA
+Oakland Community College,16462,42.620538,-83.430388,MI
+Macomb Community College,15955,42.507039,-82.97373,MI
+Oakland University,16392,42.67449,-83.220523,MI
+Moraine Valley Community College,11220,41.694613,-87.836915,IL
+Triton College,8561,41.916082,-87.841056,IL
+Frederick Community College,5042,39.452241,-77.417849,MD
+Boston University,16456,42.349581,-71.09984,MA
+Boston College,9491,42.337688,-71.171488,MA
+Westfield State University,5459,42.131589,-72.795673,MA
+Suffolk University,5352,42.359134,-71.06192,MA
+Schoolcraft College,10475,42.419279,-83.430958,MI
+University of Southern Mississippi,11737,31.327499,-89.33791,MS
+Normandale Community College,7541,44.829706,-93.331677,MN
+Century College,8256,45.041816,-92.982109,MN
+Northwest Mississippi Community College,7074,34.622721,-89.971428,MS
+Missouri State University-Springfield,16617,37.197983,-93.276821,MO
+Metropolitan Community College-Kansas City,15198,39.06855,-94.591181,MO
+Missouri Southern State University,5202,37.095722,-94.460893,MO
+Ozarks Technical Community College,11655,37.216479,-93.279985,MO
+Wayne County Community College District,11937,42.326515,-83.055527,MI
+University of Minnesota-Duluth,8929,46.818896,-92.085177,MN
+University of New Hampshire-Main Campus,12789,43.134235,-70.934512,NH
+Atlantic Cape Community College,5950,39.461387,-74.682286,NJ
+Truman State University,5290,40.188238,-92.580531,MO
+Bellevue University,6002,41.150225,-95.91764,NE
+East Carolina University,21697,35.606347,-77.366199,NC
+University at Buffalo,19692,43.001433,-78.790103,NY
+North Carolina A & T State University,9036,36.076737,-79.770152,NC
+University of North Carolina at Greensboro,15158,36.067503,-79.809844,NC
+North Carolina State University at Raleigh,22458,35.785111,-78.674517,NC
+University of North Carolina Wilmington,12971,34.225223,-77.875527,NC
+Pitt Community College,7453,35.550591,-77.407203,NC
+Pace University-New York,8371,40.711014,-74.004719,NY
+Monroe College,5993,40.86407,-73.900501,NY
+The New School,6752,40.735275,-73.994636,NY
+Rensselaer Polytechnic Institute,5781,42.728983,-73.678768,NY
+Cleveland State University,11658,41.502918,-81.673052,OH
+Lorain County Community College,8827,41.412448,-82.07242,OH
+SUNY Buffalo State,9018,42.934199,-78.88067,NY
+St John's University-New York,11244,40.721979,-73.795301,NY
+Orange County Community College,5354,41.439476,-74.426885,NY
+Farmingdale State College,7977,40.75408,-73.426371,NY
+SUNY College at Brockport,6997,43.209862,-77.949824,NY
+University of Rochester,6125,43.126437,-77.631042,NY
+Tulsa Community College,14581,36.106788,-95.90825,OK
+Northeastern State University,6788,35.920499,-94.968528,OK
+New Mexico State University-Dona Ana,5804,32.354186,-106.740521,NM
+Rutgers University-Newark,7208,40.741303,-74.175294,NJ
+Central New Mexico Community College,21410,35.07599,-106.624957,NM
+Union County College,10745,40.667835,-74.319784,NJ
+William Paterson University of New Jersey,9279,40.946256,-74.199465,NJ
+Kean University,11755,40.679429,-74.234668,NJ
+Middlesex County College,10675,40.506117,-74.365723,NJ
+Camden County College,10284,39.785083,-75.040471,NJ
+Bergen Community College,13575,40.953733,-74.094086,NJ
+Rowan College at Gloucester County,6128,39.782484,-75.12173,NJ
+Ocean County College,7535,40.007809,-74.166842,NJ
+Rowan College at Burlington County,8014,39.964352,-74.645467,NJ
+Mercer County Community College,7012,40.254398,-74.650719,NJ
+Passaic County Community College,7906,40.918449,-74.168778,NJ
+New Jersey Institute of Technology,7049,40.741997,-74.177113,NJ
+SUNY Broome Community College,5501,42.13532,-75.909212,NY
+CUNY Bernard M Baruch College,14896,40.740238,-73.983417,NY
+CUNY Queens College,15148,40.737771,-73.815387,NY
+Dutchess Community College,6331,41.726476,-73.904954,NY
+CUNY Hostos Community College,6722,40.817601,-73.927363,NY
+Hudson Valley Community College,8243,42.696462,-73.682526,NY
+Columbia University in the City of New York,8102,40.808286,-73.961885,NY
+The College of New Jersey,6590,40.268742,-74.777412,NJ
+Essex County College,9828,40.738444,-74.178234,NJ
+Nassau Community College,19444,40.730088,-73.589397,NY
+New York University,25314,40.729452,-73.997264,NY
+Oakton Community College,9269,42.061893,-87.880644,IL
+Delgado Community College,15534,29.985149,-90.103962,LA
+Nicholls State University,5254,29.792689,-90.802906,LA
+Oklahoma State University-Oklahoma City,5537,35.475272,-97.583291,OK
+Linn-Benton Community College,5635,44.586996,-123.115042,OR
+Clackamas Community College,5902,45.323185,-122.574272,OR
+Oklahoma City Community College,12171,35.387699,-97.570109,OK
+Bloomsburg University of Pennsylvania,8892,41.007989,-76.446383,PA
+Lane Community College,7774,44.010179,-123.03345,OR
+Bucks County Community College,8076,40.239102,-74.965841,PA
+Oregon State University,23656,44.56274,-123.274721,OR
+Millersville University of Pennsylvania,6952,39.99813,-76.355091,PA
+University of Pittsburgh-Pittsburgh Campus,18655,40.444502,-79.954692,PA
+Asheville-Buncombe Technical Community College,5113,35.571055,-82.555838,NC
+Forsyth Technical Community College,7677,36.06854,-80.272215,NC
+Elon University,5903,36.104149,-79.505632,NC
+Bowling Green State University-Main Campus,13900,41.377036,-83.637531,OH
+Tri-County Technical College,5322,34.641914,-82.792015,SC
+Nashville State Community College,8381,36.135453,-86.856723,TN
+Southwest Tennessee Community College,8402,35.137577,-90.036543,TN
+West Chester University of Pennsylvania,13966,39.949084,-75.594631,PA
+Slippery Rock University of Pennsylvania,7461,41.060814,-80.051814,PA
+Shippensburg University of Pennsylvania,5953,40.057405,-77.5229,PA
+Brown University,6320,41.827605,-71.404467,RI
+Texas Tech University,28868,33.580309,-101.876917,TX
+Tarrant County College District,41871,32.747501,-97.327948,TX
+The University of Texas at Austin,39057,30.286598,-97.73924,TX
+Lone Star College System,59193,30.188408,-95.490077,TX
+Sam Houston State University,17401,30.7247,-95.5519,TX
+Texas A & M University-Kingsville,5630,27.524852,-97.882342,TX
+Prairie View A & M University,6925,30.094591,-95.992066,TX
+Texas Woman's University,9395,33.227002,-97.129088,TX
+The University of Texas at San Antonio,23921,29.582418,-98.621386,TX
+University of Houston,33300,29.719988,-95.344851,TX
+Utah State University,22265,41.740748,-111.81391,UT
+Weber State University,16846,41.192021,-111.948388,UT
+Tyler Junior College,10887,32.336015,-95.284129,TX
+Brigham Young University-Provo,30221,40.250851,-111.649281,UT
+West Texas A & M University,7266,34.981996,-101.9158,TX
+University of Wisconsin-Milwaukee,20921,43.076848,-87.880488,WI
+West Virginia University,21580,39.63468,-79.953926,WV
+Tacoma Community College,6116,47.246369,-122.521057,WA
+University of Wisconsin-Oshkosh,9955,44.024985,-88.549282,WI
+Fox Valley Technical College,6477,44.283174,-88.45893,WI
+Northeast Wisconsin Technical College,6516,44.526342,-88.105976,WI
+Marquette University,8143,43.03903,-87.927961,WI
+Inter American University of Puerto Rico-Ponce,5011,18.007388,-66.578498,PR
+University of Wisconsin-Stevens Point,8733,44.529582,-89.570934,WI
+University of Wisconsin-River Falls,5286,44.852647,-92.625316,WI
+Collin County Community College District,24181,33.16241,-96.63894,TX
+Kilgore College,5630,32.378214,-94.870073,TX
+Thomas Nelson Community College,7970,37.063654,-76.418615,VA
+J Sargeant Reynolds Community College,9071,37.637415,-77.472958,VA
+University of Virginia-Main Campus,15788,38.037796,-78.505153,VA
+Southern Methodist University,6348,32.845254,-96.784855,TX
+Virginia Commonwealth University,22389,37.547631,-77.453597,VA
+Columbia Basin College,5158,46.251547,-119.118609,WA
+Las Positas College,8126,37.709623,-121.804948,CA
+Everest University-South Orlando,8886,28.434702,-81.426942,FL
+Johnson & Wales University-Providence,8467,41.820558,-71.413322,RI
+University of South Carolina-Columbia,24941,33.998973,-81.026971,SC
+College of Charleston,10033,32.783142,-79.937251,SC
+Clemson University,17740,34.677329,-82.834463,SC
+Volunteer State Community College,6566,36.363603,-86.497317,TN
+Baylor University,14139,31.545956,-97.119359,TX
+Tennessee State University,7255,36.16899,-86.82937,TN
+Austin Community College District,32524,30.333508,-97.68172,TX
+Houston Community College,56359,29.737303,-95.376524,TX
+Del Mar College,10852,27.763623,-97.407627,TX
+Central Texas College,13443,31.119054,-97.809704,TX
+North Central Texas College,9427,33.618269,-97.165273,TX
+California State University-San Marcos,12103,33.129115,-117.158013,CA
+Kaplan University-Davenport Campus,35040,41.555024,-90.550682,IA
+California State University-Monterey Bay,6408,36.653724,-121.799216,CA
+Georgia Gwinnett College,10997,33.979915,-84.001135,GA
+University of Phoenix-California,14962,33.685551,-117.885468,CA
+Arizona State University-Skysong,16219,33.46268,-111.924051,AZ
+Chamberlain College of Nursing-Illinois,15122,41.949727,-88.038558,IL
+Baton Rouge Community College,7217,30.448276,-91.137935,LA
+Suffolk County Community College,21801,40.848963,-73.056165,NY
+The Community College of Baltimore County,20560,39.352647,-76.48211,MD
+Santiago Canyon College,10381,33.796591,-117.768053,CA
+Embry-Riddle Aeronautical University-Worldwide,9666,29.18927,-81.04951,FL
+The University of Alabama,31005,33.2144,-87.545766,AL
+Auburn University,21551,32.604685,-85.482782,AL
+University of Alaska Fairbanks,5432,64.856483,-147.822943,AK
+Glendale Community College,15616,33.567483,-112.188334,AZ
+Northern Arizona University,24992,35.180095,-111.657653,AZ
+California State University-Fresno,21076,36.814477,-119.748258,CA
+California State Polytechnic University-Pomona,22034,34.054273,-117.819019,CA
+University of Central Arkansas,9340,35.078196,-92.45931,AR
+Butte College,10646,39.649116,-121.644691,CA
+Academy of Art University,8969,37.787748,-122.400686,CA
+California Baptist University,6604,33.928569,-117.42587,CA
+California State University-Northridge,36979,34.23671,-118.526817,CA
+Chapman University,6281,33.793678,-117.851481,CA
+Cerritos College,20439,33.88584,-118.097263,CA
+East Los Angeles College,32384,34.039205,-118.148384,CA
+Diablo Valley College,17868,37.968035,-122.069861,CA
+University of California-Riverside,18597,33.97588,-117.331098,CA
+University of California-Davis,28239,38.539895,-121.751958,CA
+University of California-Santa Cruz,16231,36.997258,-122.067993,CA
+University of California-San Diego,26584,32.876598,-117.237793,CA
+Canada College,5192,37.447365,-122.265549,CA
+Bakersfield College,17918,35.4108,-118.973491,CA
+University of La Verne,5140,34.10086,-117.772634,CA
+Glendale Community College,13928,34.166422,-118.228251,CA
+Foothill College,13930,37.361104,-122.12833,CA
+Long Beach City College,23215,33.831741,-118.135819,CA
+Los Angeles Pierce College,18578,34.184184,-118.577194,CA
+Los Angeles City College,15634,34.087301,-118.292169,CA
+Colorado State University-Fort Collins,22727,40.574759,-105.08083,CO
+Yuba College,6193,39.125995,-121.539316,CA
+Mt San Antonio College,26441,34.043786,-117.8437,CA
+Palomar College,21154,33.15019,-117.181718,CA
+Los Angeles Valley College,16466,34.176406,-118.421446,CA
+Mt San Jacinto Community College District,13948,33.807364,-116.970063,CA
+Moorpark College,13327,34.300018,-118.836624,CA
+Oxnard College,6539,34.164899,-119.15549,CA
+Santa Barbara City College,15092,34.406788,-119.698045,CA
+Sonoma State University,8589,38.341023,-122.673261,CA
+Southwestern College,16786,32.641567,-116.997215,CA
+Solano Community College,8398,38.235513,-122.120232,CA
+San Bernardino Valley College,11503,34.088717,-117.313814,CA
+Santa Clara University,5344,37.352706,-121.938189,CA
+University of Southern California,18519,34.021058,-118.283858,CA
+West Valley College,7504,37.263133,-122.009701,CA
+Laney College,10339,37.796205,-122.262434,CA
+Los Angeles Trade Technical College,12584,34.032623,-118.269113,CA
+Merced College,9114,37.335348,-120.476726,CA
+Los Medanos College,7883,38.005552,-121.861122,CA
+Pikes Peak Community College,11043,38.764287,-104.787261,CO
+University of Northern Colorado,8915,40.403178,-104.701721,CO
+University of Connecticut,18451,41.806261,-72.247969,CT
+Howard University,6796,38.920739,-77.019478,DC
+Georgetown University,7168,38.908809,-77.073463,DC
+University of Hartford,5028,41.796485,-72.714965,CT
+Western Connecticut State University,5081,41.400365,-73.444264,CT
+American University,7300,38.937802,-77.090106,DC
+Quinnipiac University,6931,41.419527,-72.895542,CT
+Naugatuck Valley Community College,6302,41.549564,-73.071209,CT
+Manchester Community College,5952,41.760484,-72.562577,CT
+University of Central Florida,54091,28.60106,-81.198805,FL
+Daytona State College,12474,29.202286,-81.051266,FL
+Florida Atlantic University,24228,26.372536,-80.102293,FL
+Florida State College at Jacksonville,21565,30.334918,-81.659901,FL
+Florida Agricultural and Mechanical University,7705,30.428554,-84.285644,FL
+Florida SouthWestern State College,10780,26.554737,-81.887375,FL
+San Francisco State University,25867,37.721345,-122.477905,CA
+San Jose State University,26670,37.335201,-121.881214,CA
+Sacramento City College,20781,38.541883,-121.49166,CA
+Pasadena City College,25234,34.144552,-118.118196,CA
+San Diego City College,14129,32.718855,-117.151641,CA
+Rio Hondo College,15941,34.019878,-118.033329,CA
+Santa Ana College,27575,33.759203,-117.888384,CA
+San Jose City College,7271,37.316293,-121.929747,CA
+University of Cincinnati-Main Campus,24066,39.131159,-84.51428,OH
+Columbus State Community College,12643,39.969976,-82.987654,OH
+University of Akron Main Campus,17240,41.077768,-81.510328,OH
+North Dakota State University-Main Campus,11719,46.894523,-96.805689,ND
+University of Dayton,8556,39.73686,-84.173662,OH
+Sinclair Community College,16282,39.757598,-84.200628,OH
+Owens Community College,7655,41.588272,-83.536023,OH
+North Carolina Central University,5797,35.974237,-78.898602,NC
+University of North Carolina at Chapel Hill,17951,35.912165,-79.050969,NC
+SUNY at Binghamton,13465,42.088049,-75.971143,NY
+SUNY Cortland,6276,42.590158,-76.197909,NY
+SUNY College at Geneseo,5548,42.796864,-77.821999,NY
+Central Piedmont Community College,17922,35.217774,-80.829796,NC
+Gaston College,5199,35.312015,-81.189481,NC
+Duke University,6501,36.00159,-78.94226,NC
+University of Oklahoma-Norman Campus,20689,35.208152,-97.445692,OK
+University of Central Oklahoma,14270,35.658239,-97.470985,OK
+Wright State University-Main Campus,12040,39.780634,-84.064881,OH
+Rose State College,5843,35.444315,-97.413925,OK
+Portland Community College,26259,45.438722,-122.731447,OR
+Community College of Allegheny County,15540,40.450632,-80.01855,PA
+Portland State University,19648,45.511229,-122.683553,OR
+Drexel University,16227,39.954855,-75.188745,PA
+California University of Pennsylvania,5715,40.066473,-79.884477,PA
+Edinboro University of Pennsylvania,5141,41.869978,-80.126363,PA
+East Stroudsburg University of Pennsylvania,6105,40.99622,-75.172614,PA
+Pennsylvania State University-Main Campus,40179,40.800732,-77.861644,PA
+Northampton County Area Community College,9730,40.67253,-75.32351,PA
+Luzerne County Community College,5227,41.193154,-75.993218,PA
+Lehigh University,5054,40.607158,-75.378887,PA
+Community College of Philadelphia,17944,39.962375,-75.166065,PA
+The University of Tennessee-Chattanooga,9976,35.048247,-85.299812,TN
+Temple University,27983,39.980943,-75.158267,PA
+The University of Tennessee-Knoxville,21661,35.955093,-83.929696,TN
+Austin Peay State University,8915,36.533319,-87.354081,TN
+Northeast State Community College,5339,36.48558,-82.408626,TN
+Belmont University,5933,36.133866,-86.794715,TN
+Texas A & M University-Commerce,7857,33.243814,-95.906913,TX
+El Paso Community College,27583,31.77234,-106.371671,TX
+Brookhaven College,8835,32.928237,-96.85016,TX
+Vanderbilt University,6857,36.14443,-86.804875,TN
+Horry-Georgetown Technical College,6354,33.79614,-79.003611,SC
+South Dakota State University,9825,44.31942,-96.783415,SD
+University of South Carolina-Upstate,5094,34.996403,-81.970583,SC
+Saint Joseph's University,5248,39.994442,-75.238343,PA
+University of Houston-Clear Lake,5403,29.582523,-95.098129,TX
+Lamar University,9008,30.044274,-94.073389,TX
+University of Houston-Downtown,13101,29.763831,-95.35953,TX
+University of North Texas,30533,33.210958,-97.151211,TX
+Utah Valley University,25751,40.278512,-111.717058,UT
+Salt Lake Community College,22561,40.671575,-111.942809,UT
+Texas Southern University,6696,29.722468,-95.361961,TX
+Southern Utah University,5977,37.674617,-113.070146,UT
+University of Vermont,10081,44.479262,-73.198128,VT
+Stephen F Austin State University,10562,31.58562,-94.58546,TX
+Texas A & M University-College Station,48707,30.613226,-96.340322,TX
+San Antonio College,17004,29.446415,-98.494234,TX
+Navarro College,9592,32.076066,-96.498738,TX
+The University of Texas at Dallas,15559,32.989432,-96.748371,TX
+Temple College,5518,31.070607,-97.351031,TX
+Laredo Community College,7792,27.506477,-99.520772,TX
+Midwestern State University,5287,33.877143,-98.51774,TX
+Mountain View College,6849,32.726573,-96.903798,TX
+Lee College,6027,29.731654,-94.976724,TX
+George Mason University,22308,38.83088,-77.30794,VA
+John Tyler Community College,6214,37.346261,-77.407937,VA
+James Madison University,19019,38.435332,-78.871663,VA
+Liberty University,49542,37.350345,-79.179688,VA
+Old Dominion University,19870,36.884919,-76.309653,VA
+Radford University,8839,37.136914,-80.549731,VA
+The University of Texas at Tyler,6059,32.314724,-95.249096,TX
+Wharton County Junior College,6232,29.324294,-96.085199,TX
+Texas Christian University,8851,32.709568,-97.361537,TX
+Germanna Community College,5267,38.375556,-77.780132,VA
+Tidewater Community College,22626,36.850635,-76.289669,VA
+Marshall University,8780,38.42261,-82.43065,WV
+University of Washington-Seattle Campus,30022,47.656213,-122.313115,WA
+Madison Area Technical College,11232,43.12078,-89.328311,WI
+Western Washington University,14336,48.737236,-122.484873,WA
+Spokane Falls Community College,5174,47.676741,-117.463538,WA
+Spokane Community College,5690,47.672571,-117.360957,WA
+Clark College,8234,45.634307,-122.652976,WA
+Inter American University of Puerto Rico-Metro,6350,18.368988,-66.077711,PR
+Pontifical Catholic University of Puerto Rico-Ponce,5427,18.000652,-66.61763,PR
+Instituto de Banca y Comercio Inc,13719,18.391708,-66.113889,PR
+University of Wyoming,9842,41.311943,-105.57204,WY
+University of Wisconsin-Platteville,7785,42.733936,-90.492709,WI
+University of Wisconsin-La Crosse,9462,43.815295,-91.230149,WI
+University of Wisconsin-Green Bay,5502,44.531102,-87.920499,WI
+University of Wisconsin-Eau Claire,9844,44.798431,-91.500432,WI
+University of Puerto Rico-Mayaguez,11518,18.212964,-67.143911,PR
+Harrisburg Area Community College-Harrisburg,17235,40.298256,-76.886341,PA
+Indiana University of Pennsylvania-Main Campus,11297,40.615589,-79.159869,PA
+Lehigh Carbon Community College,5801,40.663946,-75.611936,PA
+Purdue University-Main Campus,30233,40.428206,-86.914435,IN
+Chandler-Gilbert Community College,9677,33.293897,-111.795922,AZ
+DePaul University,15683,41.923332,-87.654116,IL
+Columbia College Chicago,8492,41.873589,-87.624554,IL
+College of DuPage,16501,41.841577,-88.071635,IL
+Idaho State University,8969,42.864108,-112.429084,ID
+City Colleges of Chicago-Harold Washington College,7943,41.886067,-87.626596,IL
+Florida State University,32229,30.4421,-84.294801,FL
+University of North Florida,13562,30.270917,-81.507853,FL
+Keiser University-Ft Lauderdale,15023,26.185869,-80.163959,FL
+Pasco-Hernando State College,9254,28.2751,-82.646727,FL
+Boise State University,15959,43.604403,-116.205789,ID
+Valdosta State University,8692,30.849236,-83.289925,GA
+University of West Georgia,10309,33.574421,-85.099007,GA
+Georgia College and State University,5933,33.082787,-83.231962,GA
+Kapiolani Community College,5643,21.271357,-157.800413,HI
+Leeward Community College,5628,21.392802,-157.985099,HI
+Hillsborough Community College,23138,27.934513,-82.456919,FL
+Seminole State College of Florida,15747,28.74475,-81.305606,FL
+The University of Tampa,7061,27.947225,-82.465582,FL
+Joliet Junior College,11955,41.500535,-88.180985,IL
+College of Lake County,10711,42.355881,-88.012392,IL
+Northwestern University,8576,42.058377,-87.673653,IL
+Savannah College of Art and Design,9421,32.072966,-81.093905,GA
+Gwinnett Technical College,6435,33.962763,-84.066224,GA
+Rasmussen College-Florida,7352,29.14081,-82.19842,FL
+Full Sail University,17804,28.596546,-81.301286,FL
+Emory University,6770,33.798836,-84.325782,GA
+Chattahoochee Technical College,8955,33.929093,-84.552492,GA
+Vincennes University,7940,38.686861,-87.523106,IN
+Kirkwood Community College,9444,41.911268,-91.651172,IA
+Iowa State University,29520,42.026368,-93.648353,IA
+Ashford University,36405,32.8273,-117.141961,CA
+University of Southern Indiana,7950,37.966188,-87.67666,IN
+Ball State University,15689,40.198942,-85.408863,IN
+Illinois State University,18343,40.509724,-88.99234,IL
+Parkland College,6647,40.131963,-88.290359,IL
+Indiana University-South Bend,5165,41.665746,-86.222958,IN
+Kansas State University,19443,39.188616,-96.581077,KS
+Johnson County Community College,11610,38.923775,-94.730614,KS
+University of Northern Iowa,9934,42.514923,-92.459703,IA
+University of New Orleans,6185,30.028539,-90.068506,LA
+Louisiana State University and Agricultural & Mechanical College,24904,30.414983,-91.178921,LA
+Northwestern State University of Louisiana,6836,31.750675,-93.097715,LA
+University of Southern Maine,5359,43.662637,-70.276002,ME
+University of Maine,8677,44.895129,-68.67358,ME
+Southern Maine Community College,5233,43.647335,-70.228098,ME
+Tulane University of Louisiana,7841,29.939696,-90.120409,LA
+Southeastern Louisiana University,11024,30.51358,-90.468558,LA
+University of Louisiana at Lafayette,15091,30.215283,-92.01941,LA
+Howard Community College,9168,39.211569,-76.87843,MD
+Lansing Community College,13909,42.739099,-84.552201,MI
+Ferris State University,12571,43.687464,-85.483509,MI
+University of Michigan-Ann Arbor,28120,42.276061,-83.743121,MI
+Towson University,18806,39.393008,-76.612268,MD
+University of Maryland-Baltimore County,11144,39.256686,-76.711607,MD
+Morgan State University,6294,39.344235,-76.584238,MD
+Bridgewater State University,9497,41.987785,-70.966058,MA
+Bunker Hill Community College,12024,42.374806,-71.069263,MA
+College of Southern Maryland,7697,38.559648,-77.009328,MD
+Davenport University,5774,42.849713,-85.529655,MI
+Middlesex Community College,8202,42.525056,-71.273966,MA
+Delta College,7672,43.559491,-83.985943,MI
+Northeastern University,13620,42.339992,-71.088782,MA
+Quinsigamond Community College,7223,42.314675,-71.793568,MA
+Harvard University,7333,42.374429,-71.118177,MA
+Michigan State University,38853,42.73212,-84.476111,MI
+Northern Michigan University,7278,46.558037,-87.403857,MI
+Michigan Technological University,5623,47.1183,-88.546403,MI
+Tufts University,5236,42.406994,-71.121689,MA
+Washtenaw Community College,10135,42.263311,-83.664928,MI
+University of Mississippi,18472,34.362144,-89.539377,MS
+Mississippi Gulf Coast Community College,8792,30.779349,-89.144339,MS
+University of Nebraska-Lincoln,20182,40.822272,-96.702177,NE
+Brookdale Community College,11805,40.324906,-74.132746,NJ
+Montclair State University,16129,40.859233,-74.199455,NJ
+New Jersey City University,6201,40.709937,-74.08727,NJ
+Hudson County Community College,8510,40.730559,-74.062861,NJ
+College of Southern Nevada,28685,36.158443,-115.233784,NV
+University of Nevada-Reno,17295,39.545052,-119.818424,NV
+Southern New Hampshire University,42247,43.039892,-71.453938,NH
+Stockton University,7765,39.492036,-74.531087,NJ
+Ramapo College of New Jersey,5425,41.007523,-74.116384,NJ
+Seton Hall University,5818,40.742859,-74.248753,NJ
+Rowan University,12912,39.709768,-75.117974,NJ
+University of New Mexico-Main Campus,19886,35.083868,-106.620155,NM
+Mercy College,6410,41.021436,-73.874571,NY
+CUNY Borough of Manhattan Community College,26560,40.71879,-74.011826,NY
+Hofstra University,6716,40.715959,-73.60078,NY
+CUNY Lehman College,9874,40.873928,-73.894627,NY
+CUNY York College,7264,40.702661,-73.794586,NY
+Fordham University,8701,40.861183,-73.889578,NY
+San Juan College,5669,36.771785,-108.166307,NM
+Cornell University,14226,42.447199,-76.483489,NY
+Rockland Community College,6040,41.13324,-74.088169,NY
+Indiana Institute of Technology,6783,41.078338,-85.11795,IN
+Bluegrass Community and Technical College,8753,38.024467,-84.502338,KY
+University of Notre Dame,8425,41.703058,-86.238959,IN
+Southern Illinois University-Carbondale,12858,37.713239,-89.218724,IL
+Metropolitan State University,7244,44.957017,-93.074153,MN
+Montana State University,13488,45.666829,-111.049918,MT
+University of St Thomas,6076,44.941662,-93.189422,MN
+Hinds Community College,10612,32.258205,-90.412527,MS
+University of Minnesota-Twin Cities,30511,44.977886,-93.235352,MN
+Northwest Missouri State University,5288,40.352706,-94.884341,MO
+Saint Louis University,7502,38.636516,-90.23343,MO
+Missouri University of Science and Technology,6747,37.955853,-91.7759,MO
+Stony Brook University,16583,40.913138,-73.123595,NY
+SUNY at Albany,12698,42.686917,-73.825014,NY
+SUNY Oneonta,5825,42.466555,-75.064186,NY
+Universidad del Turabo,14696,18.239647,-66.006259,PR
+California State University-Sacramento,27323,38.55745,-121.42194,CA
+California State University-Long Beach,32025,33.782752,-118.1123,CA
+Arkansas State University-Main Campus,8909,35.842779,-90.680478,AR
+California State University-Los Angeles,23424,34.066927,-118.168965,CA
+University of Arkansas at Little Rock,7888,34.726644,-92.341835,AR
+California State University-Dominguez Hills,12584,33.86524,-118.259316,CA
+University of California-Irvine,25245,33.648434,-117.841248,CA
+University of California-Los Angeles,29581,34.068892,-118.443901,CA
+Troy University,14065,31.800128,-85.950191,AL
+University of Alaska Anchorage,12348,61.189554,-149.826135,AK
+Jefferson State Community College,7381,33.652439,-86.707387,AL
+University of North Alabama,5698,34.80658,-87.680999,AL
+Grand Canyon University,42444,33.512172,-112.129917,AZ
+Arizona Western College,6608,32.689306,-114.495968,AZ
+Yavapai College,5112,34.547512,-112.454156,AZ
+Arkansas Tech University,8799,35.295227,-93.13233,AR
+California Polytechnic State University-San Luis Obispo,19972,35.29889,-120.65856,CA
+Fullerton College,22529,33.876794,-117.916986,CA
+Cypress College,15175,33.827625,-118.023889,CA
+El Camino Community College District,21885,33.885586,-118.326623,CA
+Cuesta College,7835,35.329859,-120.741624,CA
+El Camino College-Compton Center,6484,33.876665,-118.209186,CA
+Contra Costa College,5052,37.968623,-122.342386,CA
+Gavilan College,5176,36.973274,-121.568174,CA
+Crafton Hills College,5127,34.038513,-117.100826,CA
+Citrus College,11599,34.135487,-117.885266,CA
+Chabot College,12255,37.642513,-122.106969,CA
+Chaffey College,18449,34.14705,-117.573086,CA
+Coastline Community College,9773,33.609771,-117.861844,CA
+Arizona State University-Tempe,41222,33.422247,-111.934629,AZ
+Florida International University,40208,25.757111,-80.377591,FL
+Palm Beach State College,26351,26.613214,-80.087104,FL
+Miami Dade College,57884,25.777717,-80.190856,FL
+University of Florida,32376,29.649428,-82.339958,FL
+Indian River State College,14403,27.423121,-80.35785,FL
+University of Miami,10768,25.720406,-80.27645,FL
+Purdue University-Calumet Campus,7242,41.584742,-87.47376,IN
+Indiana University-Purdue University-Indianapolis,21217,39.772948,-86.172217,IN
+Indiana University-Purdue University-Fort Wayne,8746,41.115418,-85.111747,IN
+Indiana University-Bloomington,32694,39.166383,-86.526904,IN
+Southern Illinois University-Edwardsville,11717,38.793949,-89.997779,IL
+Indiana State University,10737,39.46873,-87.407085,IN
+Indiana University-Southeast,5228,38.342992,-85.819376,IN
+William Rainey Harper College,11213,42.081356,-88.069391,IL
+Waubonsee Community College,7429,41.798044,-88.458796,IL
+Northeastern Illinois University,7979,41.980567,-87.72013,IL
+Loyola University Chicago,10276,41.999161,-87.657399,IL
+Rock Valley College,6796,42.309537,-88.994586,IL
+Fort Hays State University,11503,38.872436,-99.340493,KS
+Orange Coast College,20809,33.670171,-117.911401,CA
+Humboldt State University,8227,40.8741,-124.0814,CA
+Shasta College,7432,40.625731,-122.317982,CA
+College of the Sequoias,10174,36.322957,-119.314775,CA
+University of San Diego,5551,32.77142,-117.188721,CA
+San Diego Mesa College,20807,32.804935,-117.169072,CA
+Reedley College,7858,36.605968,-119.45993,CA
+Colorado Mesa University,8625,39.076354,-108.540281,CO
+University of Colorado Colorado Springs,9514,38.892735,-104.800296,CO
+University of Denver,5758,39.695954,-104.964625,CO
+University of Colorado Denver/Anschutz Medical Campus,10855,39.74603,-104.999181,CO
+Sierra College,16911,38.792758,-121.212646,CA
+Ventura College,11735,34.277035,-119.230659,CA
+West Los Angeles College,9892,34.005578,-118.387578,CA
+Berkeley City College,6539,37.87047,-122.269793,CA
+National University,8555,32.909469,-117.244243,CA
+Los Angeles Harbor College,8737,33.784201,-118.28186,CA
+Monterey Peninsula College,7646,36.590826,-121.885774,CA
+Mission College,6900,37.391323,-121.982174,CA
+Napa Valley College,5700,38.27254,-122.272565,CA
+Red Rocks Community College,6518,39.720277,-105.150094,CO
+Skyline College,8557,37.630543,-122.465978,CA
+Los Angeles Mission College,8530,34.314944,-118.419087,CA
+Los Angeles Southwest College,5720,33.929586,-118.304674,CA
+Imperial Valley College,6816,32.827563,-115.503903,CA
+Ohlone College,8576,37.527956,-121.914597,CA
+Southern Connecticut State University,8106,41.331852,-72.948806,CT
+Tallahassee Community College,11357,30.445234,-84.341462,FL
+Saint Leo University,11575,28.336776,-82.257287,FL
+Georgia Southern University,17173,32.427756,-81.782201,GA
+University of Georgia,27335,33.956428,-83.374049,GA
+Georgia Highlands College,5497,34.169791,-85.207356,GA
+Georgia Institute of Technology-Main Campus,14463,33.773732,-84.396019,GA
+West Georgia Technical College,5595,33.691657,-85.183666,GA
+Clayton  State University,5920,33.594079,-84.328174,GA
+Darton State College,5163,31.583594,-84.212087,GA
+University of Hawaii at Manoa,13320,21.292648,-157.816607,HI
+University of Delaware,18353,39.679574,-75.752917,DE
+George Washington University,10901,38.89865,-77.047871,DC
+Wilmington University,8674,39.682299,-75.586998,DE
+Eastern Illinois University,7063,39.483017,-88.175505,IL
+University of Chicago,5869,41.78917,-87.601196,IL
+University of Illinois at Chicago,17368,41.872651,-87.651145,IL
+Eastern Kentucky University,13493,37.740396,-84.301356,KY
+University of Kentucky,22247,38.035818,-84.505653,KY
+University of Louisville,14844,38.215752,-85.758843,KY
+University of Kansas,18784,38.958551,-95.247618,KS
+Pittsburg State University,5700,37.3913,-94.704782,KS
+University of Massachusetts-Amherst,22405,42.386162,-72.52617,MA
+University of Massachusetts-Lowell,13092,42.65372,-71.325081,MA
+Massasoit Community College,6571,42.076048,-70.988944,MA
+North Shore Community College,6197,42.597283,-70.968337,MA
+Springfield Technical Community College,5658,42.108393,-72.581598,MA
+University of Massachusetts-Dartmouth,7054,41.628861,-71.005528,MA
+Salem State University,7091,42.502879,-70.889321,MA
+Berklee College of Music,5112,42.346895,-71.08703,MA
+Bristol Community College,8046,41.721337,-71.120263,MA
+Baker College,22816,42.974764,-83.694679,MI
+Mott Community College,7556,43.019941,-83.67243,MI
+University of Maryland-College Park,26889,38.985379,-76.939494,MD
+Western Kentucky University,15119,36.985718,-86.455898,KY
+Harford Community College,5546,39.561347,-76.281801,MD
+Johns Hopkins University,5862,39.32838,-76.620799,MD
+University of Louisiana at Monroe,5957,32.527957,-92.073855,LA
+Southern University and A & M College,5226,30.524558,-91.190105,LA
+Bossier Parish Community College,6240,32.539551,-93.646881,LA
+McNeese State University,6511,30.180762,-93.215648,LA
+Louisiana Tech University,7629,32.525518,-92.64964,LA
+Salisbury University,7612,38.345447,-75.605705,MD
+Morehead State University,7038,38.188462,-83.429742,KY
+Northern Kentucky University,11302,39.029221,-84.465959,KY
+Somerset Community College,5161,37.059599,-84.617546,KY
+Eastern Michigan University,17275,42.245751,-83.624499,MI
+Henry Ford College,11129,42.324577,-83.238409,MI
+Kalamazoo Valley Community College,7479,42.225948,-85.682144,MI
+University of Michigan-Flint,6255,43.018777,-83.688474,MI
+University of Michigan-Dearborn,6845,42.317287,-83.231417,MI
+Wayne State University,16728,42.35861,-83.072864,MI
+Western Michigan University,18179,42.282589,-85.61512,MI
+Saginaw Valley State University,8434,43.55187,-83.96434,MI
+Anoka-Ramsey Community College,5780,45.172978,-93.351697,MN
+Saint Cloud State University,10610,45.552418,-94.153,MN
+Mississippi State University,16712,33.454809,-88.788979,MS
+North Hennepin Community College,6024,45.107408,-93.373662,MN
+Jackson State University,7436,32.296781,-90.20663,MS
+Holmes Community College,5150,32.969985,-89.915803,MS
+Winona State University,7833,44.04585,-91.644838,MN
+Saint Paul College,5414,44.9492,-93.109664,MN
+College of Staten Island CUNY,12321,40.603949,-74.148701,NY
+CUNY Hunter College,15465,40.768669,-73.964795,NY
+CUNY John Jay College of Criminal Justice,12545,40.770917,-73.988874,NY
+CUNY Kingsborough Community College,12847,40.576446,-73.934779,NY
+CUNY Brooklyn College,13172,40.631912,-73.95312,NY
+CUNY City College,12468,40.819794,-73.95055,NY
+CUNY Bronx Community College,10483,40.857185,-73.909742,NY
+Onondaga Community College,8009,43.007418,-76.196454,NY
+Monroe Community College,13385,43.101265,-77.608488,NY
+Rochester Institute of Technology,12873,43.090325,-77.67521,NY
+Rutgers University-New Brunswick,35102,40.503796,-74.45051,NJ
+New Mexico State University-Main Campus,11887,32.282875,-106.747841,NM
+Raritan Valley Community College,6177,40.61769,-74.6955,NJ
+CUNY New York City College of Technology,16297,40.695483,-73.987856,NY
+CUNY Queensborough Community College,13692,40.754858,-73.754548,NY
+CUNY LaGuardia Community College,16047,40.7445,-73.935057,NY
+CUNY Medgar Evers College,6257,40.666256,-73.957076,NY
+Fashion Institute of Technology,8229,40.74731,-73.994781,NY
+SUNY College at Oswego,7046,43.453047,-76.543885,NY
+SUNY College at Plattsburgh,5272,44.691103,-73.467342,NY
+State University of New York at New Paltz,6498,41.737205,-74.088727,NY
+Marist College,5206,41.721955,-73.934342,NY
+Ithaca College,6279,42.42264,-76.495057,NY
+Thomas Edison State University,12283,40.22011,-74.769652,NJ
+Princeton University,5260,40.34853,-74.663603,NJ
+Touro College,5965,40.75348,-73.989691,NY
+Appalachian State University,16126,36.214844,-81.680234,NC
+SUNY Westchester Community College,11689,41.06717,-73.78814,NY
+Cape Fear Community College,8067,34.240243,-77.948985,NC
+SUNY Empire State College,9825,43.078304,-73.779915,NY
+Syracuse University,14620,43.040005,-76.136633,NY
+Kent State University at Kent,22779,41.146856,-81.342253,OH
+Miami University-Oxford,15975,39.509642,-84.731821,OH
+Cuyahoga Community College District,13590,41.493981,-81.66964,OH
+Lakeland Community College,5119,41.638462,-81.364545,OH
+University of North Dakota,10809,47.919774,-97.073451,ND
+Wake Technical Community College,19625,35.650151,-78.706126,NC
+Western Carolina University,8601,35.311102,-83.182104,NC
+University of North Carolina at Pembroke,5508,34.687231,-79.201895,NC
+University of North Carolina at Charlotte,22686,35.306834,-80.73579,NC
+Cincinnati State Technical and Community College,7983,39.150569,-84.535229,OH
+Case Western Reserve University,5039,41.500812,-81.605769,OH
+Fayetteville Technical Community College,9667,35.068313,-78.924515,NC
+Guilford Technical Community College,11290,35.9972,-79.921811,NC
+Fayetteville State University,5087,35.072485,-78.894709,NC
+Ohio State University-Main Campus,44131,39.998389,-83.009001,OH
+Ohio University-Main Campus,23335,39.326799,-82.101064,OH
+University of Toledo,14989,41.65795,-83.615225,OH
+Youngstown State University,10196,41.105583,-80.646515,OH
+Stark State College,8961,40.869332,-81.437798,OH
+Oklahoma State University-Main Campus,20805,36.123085,-97.069743,OK
+University of Oregon,20220,44.044515,-123.07398,OR
+Central Oregon Community College,5322,44.070651,-121.345804,OR
+Mt Hood Community College,7479,45.512114,-122.396467,OR
+Chemeketa Community College,9380,44.978206,-122.977179,OR
+Trident Technical College,12892,32.925912,-80.030388,SC
+Midlands Technical College,10439,33.949325,-81.115761,SC
+Greenville Technical College,10929,34.82156,-82.371051,SC
+Coastal Carolina University,9289,33.794722,-79.012635,SC
+Montgomery County Community College,10482,40.175609,-75.276093,PA
+University of Pennsylvania,10666,39.951002,-75.193618,PA
+Community College of Rhode Island,15255,41.712817,-71.481509,RI
+University of Rhode Island,13342,41.484691,-71.527356,RI
+Rhode Island College,7216,41.84266,-71.466915,RI
+Villanova University,6835,40.039388,-75.345457,PA
+Florence-Darlington Technical College,5115,34.243882,-79.81469,SC
+Chattanooga State Community College,7612,35.100202,-85.237389,TN
+University of South Dakota,6205,42.784558,-96.924664,SD
+Minneapolis Community and Technical College,7506,44.972672,-93.284489,MN
+Minnesota State University-Mankato,12259,44.147253,-93.998494,MN
+Minnesota State University Moorhead,5045,46.866482,-96.763376,MN
+Hennepin Technical College,5052,45.096534,-93.397755,MN
+University of Central Missouri,9019,38.755882,-93.737445,MO
+Lindenwood University,7787,38.788203,-90.502825,MO
+Columbia College,13418,38.957899,-92.326544,MO
+Saint Louis Community College,17312,38.62273,-90.190701,MO
+Southeast Missouri State University,9098,37.31575,-89.529119,MO
+Washington University in St Louis,7032,38.648125,-90.311639,MO
+University of Nebraska at Omaha,12287,41.257746,-96.010797,NE
+The University of Montana,10175,46.861074,-113.98294,MT
+Southeast Community College Area,6516,40.81079,-96.62818,NE
+Metropolitan Community College Area,6130,41.305504,-95.958658,NE
+University of Missouri-Columbia,27393,38.941015,-92.326429,MO
+University of Missouri-St Louis,8275,38.711297,-90.308886,MO
+University of Missouri-Kansas City,7977,39.035366,-94.578039,MO
+Park University,10105,39.189477,-94.677086,MO
+Truckee Meadows Community College,8548,39.572159,-119.795319,NV
+University of Nevada-Las Vegas,23325,36.106994,-115.141153,NV
+County College of Morris,7170,40.853428,-74.577509,NJ
+Delaware County Community College,11369,39.966724,-75.39308,PA
+Kutztown University of Pennsylvania,8244,40.513705,-75.785426,PA
+Carnegie Mellon University,5964,40.444616,-79.942914,PA
+Duquesne University,5943,40.437496,-79.993046,PA
+University of Memphis,15553,35.118874,-89.938062,TN
+Middle Tennessee State University,19446,35.849139,-86.362094,TN
+East Tennessee State University,10960,36.304077,-82.366734,TN
+Pellissippi State Community College,8251,35.948303,-84.166504,TN
+Texas A & M University-Corpus Christi,9552,27.718601,-97.331933,TX
+Tennessee Technological University,9475,36.174659,-85.503957,TN
+Angelo State University,5325,31.44145,-100.466495,TX
+Amarillo College,9019,35.18841,-101.847104,TX
+The University of Tennessee-Martin,5988,36.340338,-88.864211,TN
+Eastfield College,9945,32.815679,-96.65947,TX
+El Centro College,7437,32.779817,-96.805361,TX
+Cedar Valley College,5069,32.625686,-96.763421,TX
+University of the Incarnate Word,6249,29.468052,-98.467709,TX
+Texas A & M International University,6349,27.573504,-99.435225,TX
+Northwest Vista College,13130,29.471082,-98.708405,TX
+Kennesaw State University,29841,34.032662,-84.580393,GA
+Moreno Valley College,7269,33.885822,-117.205147,CA
+Independence University,5704,40.68428,-111.869981,UT
+Ultimate Medical Academy-Tampa,13372,28.035202,-82.4573,FL
+Arizona State University-Downtown Phoenix,9158,33.45343,-112.073231,AZ
+California State University-Channel Islands,5917,34.162949,-119.04356,CA
+Florida Gulf Coast University,13635,26.464262,-81.773578,FL
+South Plains College,7303,33.575904,-102.365075,TX
+The University of Texas Rio Grande Valley,24473,26.306629,-98.172112,TX
+San Jacinto Community College,23870,29.660335,-95.115941,TX
+Tarleton State University,10749,32.215665,-98.22008,TX
+McLennan Community College,6907,31.590003,-97.17287,TX
+St Philip's College,8111,29.41456,-98.452987,TX
+Richland College,14166,32.922141,-96.730505,TX
+North Lake College,8284,32.871878,-96.967106,TX
+University of Wisconsin Colleges,10950,43.071583,-89.404531,WI
+Georgia State University-Perimeter College,18678,33.688584,-84.275037,GA
+Milwaukee Area Technical College,13551,43.04359,-87.920818,WI
+Palo Alto College,6813,29.322925,-98.546713,TX
+Eastern Washington University,10761,47.491293,-117.589371,WA
+Central Washington University,10101,47.004957,-120.537716,WA
+Green River College,5484,47.312277,-122.178175,WA
+University of Wisconsin-Madison,29579,43.073858,-89.405356,WI
+University of Wisconsin-Whitewater,10614,42.835563,-88.742368,WI
+University of Wisconsin-Stout,8220,44.88861,-91.929461,WI
+Universidad del Este,11825,18.415027,-65.983422,PR
+University of Puerto Rico-Rio Piedras,12653,18.403027,-66.045875,PR
+Stanford University,6994,37.426967,-122.168826,CA
+Gateway Technical College,6291,42.605677,-87.846695,WI
+Universidad Metropolitana,11589,18.387177,-66.061615,PR
+Paradise Valley Community College,6418,33.652135,-112.009865,AZ
+St Charles Community College,6301,38.760425,-90.640147,MO
+NorthWest Arkansas Community College,6057,36.357704,-94.17289,AR
+Pennsylvania College of Technology,5416,41.2369,-77.0265,PA
+Christopher Newport University,5040,37.059919,-76.488408,VA
+Virginia Polytechnic Institute and State University,25327,37.228572,-80.423229,VA
+Weatherford College,5370,32.740658,-97.792652,TX
+College of William and Mary,6260,37.271997,-76.709417,VA
+Northern Virginia Community College,43323,38.834039,-77.236679,VA
+Washington State University,24100,46.730448,-117.158168,WA
+University of Utah,22761,40.762484,-111.846044,UT
+Blinn College,18025,30.159713,-96.409677,TX
+The University of Texas at Arlington,30358,32.728437,-97.115087,TX
+The University of Texas at El Paso,20004,31.771697,-106.50356,TX
+Texas State University,33480,29.889202,-97.936392,TX
+Dixie State University,7207,37.103875,-113.565894,UT
+ECPI University,10979,36.842533,-76.178775,VA
+Estrella Mountain Community College,7803,33.480722,-112.343158,AZ
+South Texas College,19067,26.217591,-98.253634,TX
